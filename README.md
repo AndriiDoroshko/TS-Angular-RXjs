@@ -1,3 +1,20 @@
+
+### Technologies:
+
+- TypeScript, version: 4.3.5; [Node.js](https://nodejs.org/en/download/releases/), version: 14.x.x;
+- [Angular CLI](https://github.com/angular/angular-cli), version 12.2.17.
+
+### Libraries:
+
+- [Angular Material Design](https://material.angular.io/), version: 12.2.13;
+- [RxJs](https://rxjs.dev/), version: 6.6.7;
+- [NgRx](https://ngrx.io/guide/store), version: 12.2.0;
+- [Formly](https://formly.dev/guide/getting-started), version: 5.0.0;
+- [Bootstrap](https://www.npmjs.com/package/bootstrap), version: 5.1.3;
+- [Font Awesome Icons](https://www.npmjs.com/package/@fortawesome/angular-fontawesome), version: 4.7.0;
+- [Prettier](https://www.npmjs.com/package/prettier), version: 2.5.1;
+- Karma, version: 4.3.0; Jasmine, version: 3.4.0; [Cypress Angular Schematic](https://www.npmjs.com/package/@cypress/schematic/v/1.5.1), version: 1.5.1.
+
 # TestApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.17.
